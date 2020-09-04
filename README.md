@@ -1,6 +1,6 @@
 # ulx-luadev
 
-Attempting to teach an old dog (ULX) new tricks (luadev)
+Attempting to teach an old dog (ULX) new tricks (luadev)  
 **Requires [luadev](https://github.com/Metastruct/luadev) to be installed.**
 
 ## Commands
